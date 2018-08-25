@@ -1,4 +1,4 @@
-# Thread-Matrix-Multiplication
+# Thread Matrix Multiplication
 
 To run:
 ```bash
